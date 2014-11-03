@@ -1,5 +1,5 @@
 {
-    "name": "thejourney/tjdapi-client",
+    "name": "thejourneystl/tjdapi-client",
     "description": "Client library for use with The Journey's api.",
     "require": {
         "guzzlehttp/guzzle": "~5.0"
