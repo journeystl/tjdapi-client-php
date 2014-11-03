@@ -1,0 +1,19 @@
+{
+    "name": "thejourney/tjdapi-client",
+    "description": "Client library for use with The Journey's api.",
+    "require": {
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric C. Brown",
+            "email": "ebrown@thejourney.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "thejourneystl\\tjdapi-client\\": "src"
+        }
+    }
+}
