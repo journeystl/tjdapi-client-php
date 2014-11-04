@@ -1,9 +1,9 @@
 {
     "name": "thejourneystl/tjdapi-client",
     "description": "Client library for use with The Journey's api.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "require": {
-        "mashape/unirest-php" : "dev-master"
+        "mashape/unirest-php" : "1.2.*"
     },
     "license": "MIT",
     "authors": [
